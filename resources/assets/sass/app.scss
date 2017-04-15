@@ -39,8 +39,27 @@ html,body {
     .page-wrapper {
         padding: 10px;
     }
+    #app-logo {
+        max-width: 30px;
+        display: none;
+    }
+    .nav-item {
+        padding: 0 6px;
+    }
 }
 
+@media(max-width:768px) {
+    .navbar {
+        font-size: 25px;
+    }
+    #app-logo {
+        max-width: 50px;
+        display: none;
+    }
+    .nav-item {
+        padding: 0 12px;
+    }
+}
 .navbar {
     background-color: transparent;
 }
@@ -59,14 +78,7 @@ html,body {
     float: right;
 }
 
-.nav-item {
-    padding: 0 6px;
-}
 
-#app-logo {
-    max-width: 30px;
-    display: none;
-}
 
 footer.page-footer {
     background-color: #1C2331;
