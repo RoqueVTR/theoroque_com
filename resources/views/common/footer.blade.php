@@ -46,7 +46,7 @@
                         <li>
                             <a target="_blank" href="//facebook.com/theomazing.vtr" class="badge light-blue darken-4"><i class="fa fa-facebook"></i></a>&nbsp;
                             <a target="_blank" href="//twitter.com/_theomazing" class="badge blue"><i class="fa fa-twitter"></i></a>&nbsp;
-                            <a target="_blank" href="//linkedin.com/roquevtr" class="badge light-blue darken-3"><i class="fa fa-linkedin"></i></a>
+                            <a target="_blank" href="//www.linkedin.com/in/vincent-theo-roque-39709b9b/" class="badge light-blue darken-3"><i class="fa fa-linkedin"></i></a>
                         </li>
                     </ul>
                 </div>
