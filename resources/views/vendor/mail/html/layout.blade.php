@@ -27,7 +27,7 @@
         <tr>
             <td align="center">
                 <table class="content" width="100%" cellpadding="0" cellspacing="0">
-                    {{ $header or '' }}
+                    <h3 class="text-center">{{ $header or '' }}</h3>
 
                     <!-- Email Body -->
                     <tr>

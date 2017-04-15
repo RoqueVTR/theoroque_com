@@ -1,5 +1,5 @@
 @component('mail::header', ['url' => URL::to('')])
-<img src="https://theoroque.herokuapp.com/images/theoroque-logo.png" alt="TheoRoque.com Logo">
+TheoRoque.com
 @endcomponent
 
 @component('mail::message')
