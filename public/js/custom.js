@@ -14,11 +14,11 @@ $('#topBtn,#app-logo').click(function() {
 
 /* About */
 $(window).scroll(function(){
-    if($(this).scrollTop() < 700) {
+    if($(this).scrollTop() < 750) {
         $('#profile-second').css({'display':'none'});
         $('#profile-first').css({'display':'block'});
     }
-    if($(this).scrollTop() > 700) {
+    if($(this).scrollTop() > 750) {
         $('#profile-first').css({'display':'none'});
         $('#profile-second').css({'display':'block'});
     }

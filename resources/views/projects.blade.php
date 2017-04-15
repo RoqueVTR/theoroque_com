@@ -11,7 +11,7 @@
                 <div class="row">
                     <div class="col"></div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <div class="card wow fadeInDown z-depth-2" data-wow-delay="0.2s" data-wow-duration="1s">
+                        <div class="card wow fadeInUp z-depth-2" data-wow-delay="0.2s" data-wow-duration="1s">
                             <!--Card image-->
                             <div class="view hm-white-slight hm-zoom">
                                 <img src="/images/projects/loginalarm.com.png" class="img-fluid project-image" alt="LoginAlarm.com">
@@ -37,7 +37,7 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <div class="card wow fadeInRight z-depth-2" data-wow-delay="0.2s" data-wow-duration="1.2s">
+                        <div class="card wow fadeInUp z-depth-2" data-wow-delay="0.2s" data-wow-duration="1.2s">
                             <!--Card image-->
                             <div class="view hm-white-slight hm-zoom">
                                 <img src="/images/projects/sm-kontacpoint.png" class="img-fluid project-image" alt="SM-Kontacpoint">
