@@ -138,6 +138,7 @@ footer.page-footer {
  *******************/
 #profile-image-container {
     min-height: 450px;
+    max-height: 550px;
 }
 
 .profile-image {
@@ -182,4 +183,8 @@ footer.page-footer {
 #map {
     width:600px;
     height:350px;
+}
+
+.card .card-block .form-header {
+    margin-bottom: 5px;
 }

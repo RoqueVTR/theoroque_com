@@ -1,6 +1,6 @@
 <section id="contact" class="wrapper view">
     <div class="page-wrapper">
-        <div class="container-fluid" style="margin-top: 15px;">
+        <div class="container-fluid" style="margin-top: 10px;">
             <div class="col-md-12">
                 <div class="row">
 			    	<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s">
