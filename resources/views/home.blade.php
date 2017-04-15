@@ -1,11 +1,11 @@
 <section id="home" class="wrapper view hm-black-strong">
     <div class="page-wrapper full-bg-img flex-center">
-        <div class="container-fluid">
+        <div class="container-fluid" style="margin-top: 20px;">
             <div class="col-md-12">
                 <div class="row">
                     <ul>
                         <li>
-                            <img src="/images/theoroque-logo.png" style="max-width: 100px" class="mx-auto animated zoomIn">
+                            <img src="/images/theoroque-logo.png" class="mx-auto animated zoomIn" id="home-logo">
                         </li>
                         <li>
                             <h1 class="h1-responsive white-text animated zoomIn">Theo Roque</h1>
