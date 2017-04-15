@@ -40,3 +40,13 @@ function seeLess(id) {
     $(id+'-btn').children('i').addClass('fa-chevron-down');
     $(id+'-btn').attr('onclick', 'seeMore("'+id+'")');
 }
+
+/* Contact */
+function addressMap() {
+var mapOptions = {
+    center: new google.maps.LatLng(14.8261747,120.8745317),
+    zoom: 10,
+    mapTypeId: google.maps.MapTypeId.HYBRID
+}
+var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+}

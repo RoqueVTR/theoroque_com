@@ -60,7 +60,7 @@
 						@include('common.notification')
 						<h3 class="card-header mdb-color darken-3 white-text"><i class="fa fa-map-marker"></i> I am here!</h3>
 						<div class="overlay hm-white-slight z-depth-3">
-							<img src="" class="img-fluid" alt="Map here!">
+							<div id="map" class="img-fluid"></div>
 							<div class="mask"></div>
 
 							<div id="tr-address"></div>

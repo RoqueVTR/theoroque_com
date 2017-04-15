@@ -38,7 +38,7 @@
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/mdb.min.js"></script>
     <!-- Google Maps -->
-    <script src="https://maps.google.com/maps/api/js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key={{env('MAP_API_KEY')}}&callback=addressMap"></script>
     <script>
         new WOW().init();
     </script>
