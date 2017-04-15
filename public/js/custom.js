@@ -43,10 +43,10 @@ function seeLess(id) {
 
 /* Contact */
 function addressMap() {
-var mapOptions = {
-    center: new google.maps.LatLng(14.8261747,120.8745317),
-    zoom: 10,
-    mapTypeId: google.maps.MapTypeId.HYBRID
-}
-var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+    var mapOptions = {
+        center: new google.maps.LatLng(14.8261747,120.8745317),
+        zoom: 10,
+        mapTypeId: google.maps.MapTypeId.HYBRID
+    }
+    var map = new google.maps.Map(document.getElementById("map"), mapOptions);
 }

@@ -37,11 +37,11 @@
     <script src="/js/tether.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/mdb.min.js"></script>
+    <script src="/js/custom.js"></script>
     <!-- Google Maps -->
     <script src="https://maps.googleapis.com/maps/api/js?key={{env('MAP_API_KEY')}}&callback=addressMap"></script>
     <script>
         new WOW().init();
     </script>
-    <script src="/js/custom.js"></script>
 </body>
 </html>
