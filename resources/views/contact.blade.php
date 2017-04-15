@@ -3,11 +3,11 @@
         <div class="container">
             <div class="col-md-12">
                 <div class="row">
-			    	<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-		    			<div class="card rgba-white-strong wow fadeIn" data-wow-delay="0.2s">
+			    	<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
+		    			<div class="card rgba-white-strong">
 							<div class="card-block">
 							    <!--Header-->
-							    <div class="form-header mdb-color darken-3 wow fadeInDown" data-wow-delay="0.2s">
+							    <div class="form-header mdb-color darken-3">
 							        <h3><i class="fa fa-lightbulb-o"></i> Have a project in mind?</h3>
 								    <p>Let's talk about it.</p>
 							    </div>
@@ -55,7 +55,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeIn" data-wow-delay="0.2s">
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
 						@include('common.error')
 						@include('common.notification')
 						<h3 class="card-header mdb-color darken-3 white-text"><i class="fa fa-map-marker"></i> I am here!</h3>

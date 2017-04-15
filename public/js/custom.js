@@ -14,11 +14,11 @@ $('#topBtn,#app-logo').click(function() {
 
 /* About */
 $(window).scroll(function(){
-    if($(this).scrollTop() < 750) {
+    if($(this).scrollTop() < 700) {
         $('#profile-second').css({'display':'none'});
         $('#profile-first').css({'display':'block'});
     }
-    if($(this).scrollTop() > 750) {
+    if($(this).scrollTop() > 700) {
         $('#profile-first').css({'display':'none'});
         $('#profile-second').css({'display':'block'});
     }
@@ -39,6 +39,10 @@ function seeLess(id) {
     $(id+'-btn').children('i').removeClass('fa-chevron-up');
     $(id+'-btn').children('i').addClass('fa-chevron-down');
     $(id+'-btn').attr('onclick', 'seeMore("'+id+'")');
+}
+
+function openModal() {
+    $('#modal').modal('show');
 }
 
 /* Contact */

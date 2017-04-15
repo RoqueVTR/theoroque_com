@@ -5,10 +5,10 @@
                 <div class="row">
                     <ul>
                         <li>
-                            <img src="/images/theoroque-logo.png" style="max-width: 100px" class="mx-auto wow zoomIn">
+                            <img src="/images/theoroque-logo.png" style="max-width: 100px" class="mx-auto animated zoomIn">
                         </li>
                         <li>
-                            <h1 class="h1-responsive white-text wow zoomIn">Theo Roque</h1>
+                            <h1 class="h1-responsive white-text animated zoomIn">Theo Roque</h1>
                         </li>
                         <li>
                             <a href="#contact" class="btn btn-outline-white btn-md animated pulse infinite page-scroll">Let me help you with your website</a>

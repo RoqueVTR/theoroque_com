@@ -27,6 +27,8 @@
     
     @include('contact')
 
+    @include('common.modal')
+
     @include('common.footer')
 
     <a id="topBtn" class="btn btn-elegant animated bounceIn"><strong><i class="fa fa-angle-double-up" id="arrow-up"></i></strong></a>

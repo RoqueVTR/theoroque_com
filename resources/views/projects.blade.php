@@ -3,19 +3,19 @@
         <div class="container-fluid">
             <div class="col-md-12">
                 <div class="row">
-                    <div class="col-sm-12 text-center card-header z-depth-1 mdb-color darken-3 white-text wow fadeInDown">
+                    <div class="col-sm-12 text-center card-header z-depth-1 mdb-color darken-3 white-text wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
                         <h1 class="text-uppercase">My Projects</h1>
                     </div>
                 </div>
                 <br>
-                <div class="row">
+                <div class="row wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
                     <div class="col"></div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <div class="card wow fadeInUp z-depth-2" data-wow-delay="0.2s" data-wow-duration="1s">
+                        <div class="card z-depth-2">
                             <!--Card image-->
                             <div class="view hm-white-slight hm-zoom">
                                 <img src="/images/projects/loginalarm.com.png" class="img-fluid project-image" alt="LoginAlarm.com">
-                                <a target="_blank" href="//loginalarm.com">
+                                <a target="_blank" onclick="openModal()">
                                     <div class="mask"></div>
                                 </a>
                             </div>
@@ -37,11 +37,11 @@
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <div class="card wow fadeInUp z-depth-2" data-wow-delay="0.2s" data-wow-duration="1.2s">
+                        <div class="card z-depth-2">
                             <!--Card image-->
                             <div class="view hm-white-slight hm-zoom">
                                 <img src="/images/projects/sm-kontacpoint.png" class="img-fluid project-image" alt="SM-Kontacpoint">
-                                <a target="_blank" href="//sm-kontacpoint.herokuapp.com">
+                                <a target="_blank" onclick="openModal()">
                                     <div class="mask"></div>
                                 </a>
                             </div>
@@ -64,8 +64,8 @@
                     <div class="col"></div>
                 </div>
                 <br>
-                <div class="row">
-                    <div class="mx-auto flex-center wow fadeInUp" data-wow-delay="0.5s">
+                <div class="row wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
+                    <div class="mx-auto flex-center">
                         <h2 class="h2-responsive">Want to have yours?</h2>
                         <a href="#contact" class="btn btn-primary btn-lg page-scroll">Let's do it!</a>
                     </div>
