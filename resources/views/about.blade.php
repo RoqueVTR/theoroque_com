@@ -3,6 +3,10 @@
         <div class="container-fluid">
             <div class="col-md-12">
                 <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" id="profile-image-container" data-wow-duration="1s" data-wow-delay="0.2s">
+                        <img src="/images/samples/img-1.jpg" class="profile-image z-depth-3" id="profile-first" alt="Profile Photo">
+                        <img src="/images/samples/img-3.jpg" class="profile-image z-depth-3" id="profile-second" alt="Profile Photo" style="display:none">
+                    </div>  
                 	<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
                 		<h1 class="wow fadeInDown card-header mdb-color darken-3 white-text" data-wow-delay="0.2s">Hi, I'm Theo!</h1>
                 		<br>
@@ -61,10 +65,6 @@
                             </p>
                         </div>
                 	</div>
-                	<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" id="profile-image-container" data-wow-duration="1s" data-wow-delay="0.2s">
-                		<img src="/images/samples/img-1.jpg" class="profile-image z-depth-3" id="profile-first" alt="Profile Photo">
-                		<img src="/images/samples/img-3.jpg" class="profile-image z-depth-3" id="profile-second" alt="Profile Photo" style="display:none">
-                	</div>                		
                 </div>
             </div>
         </div>
