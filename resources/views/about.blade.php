@@ -8,7 +8,7 @@
                 		<br>
                 		<div class="col-sm-12 wow fadeInLeft" data-wow-delay="0.2s" data-wow-duration="1s">
                 			<p>
-                				As young as I may be (please don't email me asking for my age), I dream of having my own empire, and my empire's empire as well. I find building products for other people fun, but having my one's product as serious play - serious because there are tons of competition and possible sacrifices, and play because of the excitement, the time rendered for nonstop brainstorming of new innovative ideas and lastly, the fulfillment of finishing a product that will serve people.
+                				Young as I may be (please don't email me asking for my age), I dream of having my own empire, and my empire's empire as well. I find building products for other people fun, but having my one's product as serious play - serious because there are tons of competition and possible sacrifices, and play because of the excitement, the time rendered for nonstop brainstorming of new innovative ideas and lastly, the fulfillment of finishing a product that will serve people.
                 			</p>
                         </div>
                 		<div class="col-sm-12 wow fadeInLeft" data-wow-delay="0.4s" data-wow-duration="1s">

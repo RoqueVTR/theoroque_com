@@ -9,6 +9,7 @@
                 </div>
                 <br>
                 <div class="row">
+                    <div class="col"></div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <div class="card wow fadeInDown z-depth-2" data-wow-delay="0.2s" data-wow-duration="1s">
                             <!--Card image-->
@@ -29,7 +30,7 @@
                                     <p>As a full-stack developer, I implemented and developed the following: UI/UX, client-side and server-side processes, analytics integration, CRON job processes, Azure table storage management, as well as the use of third-party API, applications and plugins.</p>
                                 </div>
                                 <div class="card-text">
-                                    <span class="badge green">Completed</span>
+                                    <span class="badge orange">Work in progress</span>
                                     <button class="btn btn-indigo btn-sm see-more" id="loginalarm-btn" onclick="seeMore('#loginalarm')"><i class="fa fa-chevron-down arrow"></i></button>
                                 </div>
                             </div>
@@ -60,36 +61,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <div class="card wow fadeInUp z-depth-2" data-wow-delay="0.2s" data-wow-duration="1.4s">
-                            <!--Card image-->
-                            <div class="view hm-white-slight hm-zoom">
-                                <img src="" class="img-fluid project-image" alt="Project">
-                                <a>
-                                    <div class="mask"></div>
-                                </a>
-                            </div>
-                            <!--/.Card image-->
-                            <div class="card-block project-block light-blue lighten-5">
-                                <div class="card-title">
-                                    <h4><strong>Lorem ipsum dolor sit amet, consectetur adipisicing elit</strong></h4>
-                                    <h6>Out-of-stack Development</h6>
-                                </div>
-                                <div class="card-text project-description" id="sample-project">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                                </div>
-                                <div class="card-text">
-                                    <button class="btn btn-indigo btn-sm see-more" id="sample-project-btn" onclick="seeMore('#sample-project')"><i class="fa fa-chevron-down arrow"></i></button>
-                                    <span class="badge red">Pending</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                    <div class="col"></div>
                 </div>
                 <br>
                 <div class="row">
