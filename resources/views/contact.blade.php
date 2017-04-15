@@ -3,7 +3,7 @@
         <div class="container-fluid" style="margin-top: 15px;">
             <div class="col-md-12">
                 <div class="row">
-			    	<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
+			    	<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s">
 		    			<div class="card rgba-white-strong">
 							<div class="card-block">
 							    <!--Header-->
@@ -55,7 +55,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-delay="0.2s" data-wow-duration="1s">
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s">
 						@include('common.error')
 						@include('common.notification')
 						<h3 class="card-header mdb-color darken-3 white-text"><i class="fa fa-map-marker"></i> I am here!</h3>
