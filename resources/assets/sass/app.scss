@@ -32,10 +32,6 @@ html,body {
     padding: 0;
 }
 
-.container-fluid {
-    margin-top: 10px;
-}
-
 @media(min-width:768px) {
     .wrapper {
         padding-top: 80px;
@@ -61,7 +57,7 @@ html,body {
         padding-bottom: 0;
     }
     #home-logo {
-        width: 12%;
+        width: 14%;
     }
     #app-logo {
         max-width: 35px;

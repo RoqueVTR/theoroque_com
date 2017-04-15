@@ -18,8 +18,8 @@
                 <div class="col-md-2 offset-md-1">
                     <h5 class="title">Projects</h5>
                     <ul>
-                        <li><a href="//loginalarm.com" target="_blank">LoginAlarm.com</a></li>
-                        <li><a href="//sm-kontacpoint.herokuapp.com" target="_blank">Project 2</a></li>
+                        <li><a onclick="openModal()" target="_blank">LoginAlarm.com</a></li>
+                        <li><a onclick="openModal()" target="_blank">SM-Kontacpoint</a></li>
                     </ul>
                 </div>
                 <!--/.Second column-->

@@ -1,6 +1,6 @@
 <section id="home" class="wrapper view hm-black-strong">
     <div class="page-wrapper full-bg-img flex-center">
-        <div class="container-fluid" style="margin-top: 20px;">
+        <div class="container-fluid" style="margin-top: 80px;">
             <div class="col-md-12">
                 <div class="row">
                     <ul>
