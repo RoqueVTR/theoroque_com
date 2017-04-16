@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <link rel="stylesheet" type="text/css" href="/css/app.css">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/images/theoroque-favicon.psd">
 
     <script>
         window.Laravel = {!! json_encode([
