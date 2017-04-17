@@ -18,7 +18,6 @@
                 <div class="col-md-2 offset-md-1">
                     <h5 class="title">Projects</h5>
                     <ul>
-                        <li><a onclick="openModal()" target="_blank">LoginAlarm.com</a></li>
                         <li><a onclick="openModal()" target="_blank">SM-Kontacpoint</a></li>
                     </ul>
                 </div>

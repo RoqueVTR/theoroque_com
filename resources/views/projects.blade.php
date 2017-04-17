@@ -9,34 +9,8 @@
                 </div>
                 <br>
                 <div class="row wow fadeInUp" data-wow-duration="1s">
-                    <div class="col-lg-2 col-md-2 col-sm-0"></div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                        <div class="card z-depth-2">
-                            <!--Card image-->
-                            <div class="view hm-white-slight hm-zoom">
-                                <img src="/images/projects/loginalarm.com.png" class="img-fluid project-image" alt="LoginAlarm.com">
-                                <a target="_blank" onclick="openModal()">
-                                    <div class="mask"></div>
-                                </a>
-                            </div>
-                            <!--/.Card image-->
-                            <div class="card-block project-block light-blue lighten-5">
-                                <div class="card-title">
-                                    <h4><strong>LoginAlarm.com</strong></h4>
-                                    <h6>Full-stack Development</h6>
-                                </div>
-                                <div class="card-text project-description" id="loginalarm">
-                                    <p>LoginAlarm alerts users within hours of learning when login info has been stolen.</p>
-                                    <p>As a full-stack developer, I implemented and developed the following: UI/UX, client-side and server-side processes, analytics integration, CRON job processes, Azure table storage management, as well as the use of third-party API, applications and plugins.</p>
-                                </div>
-                                <div class="card-text">
-                                    <span class="badge orange">Work in progress</span>
-                                    <button class="btn btn-indigo btn-sm see-more" id="loginalarm-btn" onclick="seeMore('#loginalarm')"><i class="fa fa-chevron-down arrow"></i></button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                    <div class="col-sm-4"></div>
+                    <div class="col-sm-4">
                         <div class="card z-depth-2">
                             <!--Card image-->
                             <div class="view hm-white-slight hm-zoom">
@@ -61,7 +35,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-2 col-sm-0"></div>
+                    <div class="col-sm-4"></div>
                 </div>
                 <br>
                 <div class="row wow fadeInUp" data-wow-duration="1s">
