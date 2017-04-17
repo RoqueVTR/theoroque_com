@@ -187,11 +187,15 @@ footer.page-footer {
     height: 180px;
     width: 180px;
     padding: 0;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
 }
 
 .testimonial-image {
     height: 100%;
     width: 100%;
+    -webkit-border-radius: 100px;
     -moz-border-radius: 100px;
     border-radius: 100px;
 }
