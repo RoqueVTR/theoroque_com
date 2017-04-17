@@ -4,11 +4,11 @@
             <div class="col-md-12">
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeInUp" id="profile-image-container" data-wow-duration="1s">
-                        <img src="/images/about/self-1.jpg" class="profile-image z-depth-3" id="profile-first" alt="Profile Photo">
-                        <img src="/images/about/self-2.jpg" class="profile-image z-depth-3" id="profile-second" alt="Profile Photo" style="display:none">
+                        <img src="/images/about/self-1.jpg" class="profile-image" id="profile-first" alt="Profile Photo">
+                        <img src="/images/about/self-2.jpg" class="profile-image" id="profile-second" alt="Profile Photo" style="display:none">
                     </div>  
                 	<div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s">
-                		<h1 class="card-header mdb-color darken-3 white-text">Hi, I'm Theo!</h1>
+                		<h1 class="card-header mdb-color darken-3 white-text z-depth-1">Hi, I'm Theo!</h1>
                 		<br>
                 		<div class="col-sm-12">
                 			<p>
