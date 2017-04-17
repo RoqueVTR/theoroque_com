@@ -7,7 +7,7 @@
 
     <link rel="stylesheet" type="text/css" href="/css/app.css">
     <!-- Favicon -->
-    <link rel="shortcut icon" href="/images/theoroque-favicon.psd">
+    <link rel="shortcut icon" href="/images/theoroque-favicon.png">
 
     <script>
         window.Laravel = {!! json_encode([
@@ -26,6 +26,8 @@
     @include('about')
     
     @include('projects')
+
+    @include('testimonials')
     
     @include('contact')
 

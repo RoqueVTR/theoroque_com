@@ -179,6 +179,29 @@ footer.page-footer {
 }
 
 /*******************
+ *   Testimonials  *
+ *******************/
+ .testimonial-image-container {
+    border: none;
+    outline: none;
+    height: 180px;
+    width: 180px;
+    padding: 0;
+}
+
+.testimonial-image {
+    height: 100%;
+    width: 100%;
+    -webkit-border-radius: 100px !important;
+    -moz-border-radius: 100px !important;
+    border-radius: 100px !important;
+}
+
+.testimonial-description {
+    margin: 10px;
+}
+
+/*******************
  *   Contact       *
  *******************/
 #map {
