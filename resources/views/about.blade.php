@@ -12,7 +12,7 @@
                 		<br>
                 		<div class="col-sm-12">
                 			<p>
-                				Young as I may be (please don't email me asking for my age), I dream of having my own empire, and my empire's empire as well. I find building products for other people fun, but having one's own product as serious play - serious because there are tons of competition and possible sacrifices, and play because of the excitement, the time rendered for nonstop brainstorming of new innovative ideas and lastly, the fulfillment of finishing a product that will serve people.
+                				Young as I may be (please don't email me asking for my age), I dream of having my own empire, and my empire's empire as well. I turn exciting ideas into innovative products that are meant to help users and consumers; that will make the world a better and much simpler place. To be able to achieve my dream, I continuously make effort to progress and hone my skills. So far, I am able to acquire the following:
                 			</p>
                         </div>
                 		<div class="col-sm-12">
@@ -20,11 +20,11 @@
                                 <div class="col-sm-6 skillset">
                     				<ul>
                                         <li>
-                                            <div>Front-end Web Development <span class="badge green">Primary work</span></div>
+                                            <div>Front-end Development <span class="badge green">Primary work</span></div>
                                             <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"> </i></span></div>
                                         </li>
                                         <li>
-                                            <div>Back-end Web Development <span class="badge green">Primary work</span></div>
+                                            <div>Back-end Development <span class="badge green">Primary work</span></div>
                                             <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"> </i></span></div>
                                         </li>
                                         <li>
@@ -43,6 +43,10 @@
                         		</div>
                                 <div class="col-sm-6 skillset">
                     				<ul>
+                                        <li>
+                                            <div>Data Analytics Integration (Segment)</div>
+                                            <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"> </i></span></div>
+                                        </li>
                                         <li>
                                             <div>Adobe Photoshop</div>
                                             <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"> </i></span></div>

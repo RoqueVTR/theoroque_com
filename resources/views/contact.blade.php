@@ -18,7 +18,10 @@
 							    <!--Body-->
 							    <form method="POST" action="{{ url('/contact') }}" role="form" class="mdb-color-text">
 								    {{ csrf_field() }}
-
+								    <div class="md-form">
+									    @include('common.error')
+										@include('common.notification')
+									</div>
 								    <div class="md-form">
 								        <i class="fa fa-user prefix"></i>
 								        <input type="text" id="name" class="form-control" name="name" value="{{ old('name') }}" required>
@@ -56,8 +59,6 @@
 						</div>
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s">
-						@include('common.error')
-						@include('common.notification')
 						<h3 class="card-header mdb-color darken-3 white-text"><i class="fa fa-map-marker"></i> I am here!</h3>
 						<div class="overlay hm-white-slight z-depth-3">
 							<div id="map" class="img-fluid"></div>
