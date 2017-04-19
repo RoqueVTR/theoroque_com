@@ -60,7 +60,7 @@
 					</div>
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInUp" data-wow-duration="1s">
 						<h3 class="card-header mdb-color darken-3 white-text"><i class="fa fa-map-marker"></i> I am here!</h3>
-						<div class="overlay hm-white-slight z-depth-3">
+						<div class="overlay hm-white-slight z-depth-3 hm-zoom">
 							<div id="map" class="img-fluid"></div>
 							<div class="mask"></div>
 
