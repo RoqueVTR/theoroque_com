@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.theor" 
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url> 
-    <loc>http://www.theoroque.com/</loc> 
+    <loc>http://www.theoroque.com/</loc>
+  </url>
+  <url> 
     <loc>http://www.theoroque.com/#about</loc>
+  </url>
+  <url> 
     <loc>http://www.theoroque.com/#projects</loc>
+  </url>
+  <url> 
     <loc>http://www.theoroque.com/#testimonials</loc>
+  </url>
+  <url> 
     <loc>http://www.theoroque.com/#contact</loc>
   </url>
 </urlset>
