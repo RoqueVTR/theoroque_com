@@ -74,8 +74,13 @@ html,body {
         padding: 0 12px;
     }
 }
+
 .navbar {
     background-color: transparent;
+}
+
+.navbar-error {
+    background-color: #1C2331;
 }
 
 .scrolling-navbar {
