@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.theor" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url> 
+    <loc>http://www.theoroque.com/</loc> 
+    <loc>http://www.theoroque.com/#about</loc>
+    <loc>http://www.theoroque.com/#projects</loc>
+    <loc>http://www.theoroque.com/#testimonials</loc>
+    <loc>http://www.theoroque.com/#contact</loc>
+  </url>
+</urlset>
