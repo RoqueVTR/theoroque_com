@@ -50,8 +50,7 @@ function addressMap() {
     var balagtas = {lat:14.8185048, lng:120.9006352}
     var mapOptions = {
         center: balagtas,
-        zoom: 13,
-        mapTypeId: google.maps.MapTypeId.HYBRID
+        zoom: 13
     }
     var map = new google.maps.Map(document.getElementById("map"), mapOptions);
     var marker = new google.maps.Marker({
