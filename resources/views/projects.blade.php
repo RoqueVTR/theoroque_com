@@ -9,8 +9,8 @@
                 </div>
                 <br>
                 <div class="row wow fadeInUp" data-wow-duration="1s">
-                    <div class="col-sm-4"></div>
-                    <div class="col-sm-4">
+                    <div class="col-sm-3"></div>
+                    <div class="col-sm-6">
                         <div class="card z-depth-2">
                             <!--Card image-->
                             <div class="view hm-white-slight hm-zoom">
@@ -35,7 +35,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4"></div>
+                    <div class="col-sm-3"></div>
                 </div>
                 <br>
                 <div class="row wow fadeInUp" data-wow-duration="1s">
