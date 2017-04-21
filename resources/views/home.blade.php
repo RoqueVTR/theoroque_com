@@ -1,4 +1,4 @@
-<section id="home" class="wrapper view hm-black-strong">
+<section id="home" class="wrapper view hm-black-light">
     <div class="page-wrapper full-bg-img flex-center">
         <div class="container-fluid container-home">
             <div class="col-md-12">
