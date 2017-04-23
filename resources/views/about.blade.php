@@ -44,7 +44,11 @@
                                 <div class="col-sm-6 skillset">
                     				<ul>
                                         <li>
-                                            <div>Data Analytics Integration (Segment)</div>
+                                            <div>Data Analytics (Segment and Amplitude)</div>
+                                            <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"> </i></span></div>
+                                        </li>
+                                        <li>
+                                            <div>Payment Gateway (Stripe)</div>
                                             <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"> </i></span></div>
                                         </li>
                                         <li>

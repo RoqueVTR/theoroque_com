@@ -16,7 +16,7 @@
 							    <br>
 
 							    <!--Body-->
-							    <form method="POST" action="{{ url('/contact') }}" role="form" class="mdb-color-text">
+							    <form method="POST" id="form-contact" action="{{ url('/contact') }}" role="form" class="mdb-color-text">
 								    {{ csrf_field() }}
 								    <div class="md-form">
 									    @include('common.error')
@@ -44,7 +44,7 @@
 								    </div>
 
 								    <div class="text-center">
-								        <button class="btn btn-primary btn-lg" type="submit">Submit</button>
+								        <button class="btn btn-primary btn-lg" type="submit" id="submit">Submit</button>
 
 								        <div class="call">
 								            <br>

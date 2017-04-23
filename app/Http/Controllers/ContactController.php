@@ -7,6 +7,7 @@ use Illuminate\Http\Request;
 use App\Mail\ContactMail;
 use Validator;
 use Mail;
+use Response;
 use Carbon\Carbon;
 
 class ContactController extends Controller
@@ -37,5 +38,28 @@ class ContactController extends Controller
         }
 
         return redirect('/#contact')->with('notification','Thank you for sending an inquiry. If I do not respond in 24 hours, kindly email me again through this form.');
+
+        /* 
+        if ($validator->fails()) {
+            return Response::json([
+                'status' => 'failed',
+                'errors' => $validator
+            ], 200);
+        }
+
+        $data = [
+            'name' => $request['name'],
+            'email' => $request['email'],
+            'subject' => $request['subject'],
+            'message' => $request['message']
+        ];
+
+        // Mail::to('roquevtr@gmail.com')->send(new ContactMail($data));
+
+        return Response::json([
+            'status' = 'success',
+            'notification' => 'Thank you for sending an inquiry. If I do not respond in 24 hours, kindly email me again through this form.'
+        ], 200);
+        */
     }
 }

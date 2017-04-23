@@ -8,6 +8,7 @@
     <meta name="keywords" content="web developer, software developer, website, project, product, laravel, web development, create an app, web design company, app developer">
     <meta name="robots" content="index,follow">
     <meta name="DC.title" content="Theo Roque Personal Portfolio & Website">
+    <meta name="csrf-token" content="{{ csrf_token() }}" />
 
     <link rel="stylesheet" type="text/css" href="/css/app.css">
     <!-- Favicon -->
@@ -53,5 +54,7 @@
     <script>
         new WOW().init();
     </script>
+
+    @yield('scripts')
 </body>
 </html>

@@ -58,3 +58,35 @@ function addressMap() {
       map: map
     });
 }
+
+// $( '#form-contact' ).on( 'submit', function() {
+//     var data = {
+//         "_token": $( this ).find( 'input[name=_token]' ).val(),
+//         'name':$('#name').val(),
+//         'email':$('#email').val(),
+//         'subject':$('#subject').val(),
+//         'message':$('#message').val()
+//     }
+//     $.ajax({ 
+//         url: '/contact',
+//         async: true,
+//         type: 'POST',
+//         data: data,
+//         dataType: 'json',
+//         success: function(obj) {
+//             if (obj.status == 'success') {
+//                 $('.message').html(obj.notification);
+//                 $('#submit').html('Please wait...');
+//                 setTimeout(function() {
+//                     $('#alert-success').css({'display':'block'});
+//                     $('#form-contact').find("input, textarea").val("");
+//                     $('#submit').html('Submit');
+//                 }, 3000);
+//             }
+//             else {
+//                 console.log(obj.errors);
+//             }
+//         }
+//     });
+//     return false;
+// });
