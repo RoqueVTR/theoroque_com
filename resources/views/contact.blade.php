@@ -29,17 +29,17 @@
 								    </div>
 								    <div class="md-form">
 								        <i class="fa fa-envelope prefix"></i>
-								        <input type="email" id="email" class="form-control" name="email" value="{{ old('name') }}" required>
+								        <input type="email" id="email" class="form-control" name="email" value="{{ old('email') }}" required>
 								        <label for="email">Email</label>
 								    </div>
 								    <div class="md-form">
 								        <i class="fa fa-tag prefix"></i>
-								        <input type="text" id="subject" class="form-control" name="subject" value="{{ old('name') }}" required>
+								        <input type="text" id="subject" class="form-control" name="subject" value="{{ old('subject') }}" required>
 								        <label for="subject">Subject</label>
 								    </div>
 								    <div class="md-form">
 								        <i class="fa fa-pencil prefix"></i>
-								        <textarea type="text" id="message" class="form-control md-textarea" name="message" value="{{ old('name') }}" required></textarea>
+								        <textarea type="text" id="message" class="form-control md-textarea" name="message" required>{{ old('message') }}</textarea>
 								        <label for="message">Message</label>
 								    </div>
 
