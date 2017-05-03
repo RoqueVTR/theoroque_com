@@ -4,7 +4,7 @@
             <div class="col-md-12">
                 <div class="row">
                     <div class="col-sm-12 text-center card-header z-depth-1 mdb-color darken-3 white-text wow fadeInUp" data-wow-duration="1s">
-                        <h1 class="text-uppercase">My Clients</h1>
+                        <h1 class="text-uppercase">What do clients say about my work?</h1>
                     </div>
                 </div>
                 <br>
