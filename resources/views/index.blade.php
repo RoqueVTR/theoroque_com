@@ -32,8 +32,6 @@
 
     @include('projects')
 
-    <!-- @include('testimonials') -->
-
     @include('contact')
 
     @include('common.modal')
