@@ -40,7 +40,7 @@ class ContactController extends Controller
         // return redirect('/#contact')->with('notification','Thank you for sending an inquiry. If I do not respond in 24 hours, kindly email me again through this form.');
         return response()->json([
             'isSuccessful' => true,
-            'message' => 'Thank you for sending an inquiry. If I do not respond in 24 hours, kindly email me again through this form.'
+            'message' => 'Thank you for sending an inquiry. If I do not respond in 24 hours, kindly email me again through this form or give me a call.'
         ]);
 
         /*
