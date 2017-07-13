@@ -1,6 +1,6 @@
 <!--Navbar-->
 <nav class="navbar fixed-top navbar-toggleable-md navbar-dark scrolling-navbar">
-    
+
     <ul class="nav navbar-nav nav-flex-icons ml-auto">
         <li class="nav-item ">
             <a class="nav-link navbar-brand animated bounceIn mr-auto" href="#">
@@ -16,9 +16,9 @@
         <li class="nav-item ">
             <a class="nav-link waves-effect waves-light page-scroll" href="#projects"><i class="fa fa-star"></i><span class="hidden-sm-down"> Projects</span></a>
         </li>
-        <li class="nav-item ">
+        <!-- <li class="nav-item ">
             <a class="nav-link waves-effect waves-light page-scroll" href="#testimonials"><i class="fa fa-users"></i><span class="hidden-sm-down"> Testimonials</span></a>
-        </li>
+        </li> -->
         <li class="nav-item">
             <a class="nav-link waves-effect waves-light page-scroll" href="#contact"><i class="fa fa-address-card"></i><span class="hidden-sm-down"> Contact</span></a>
         </li>

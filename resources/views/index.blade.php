@@ -29,11 +29,11 @@
     @include('home')
 
     @include('about')
-    
+
     @include('projects')
 
-    @include('testimonials')
-    
+    <!-- @include('testimonials') -->
+
     @include('contact')
 
     @include('common.modal')
