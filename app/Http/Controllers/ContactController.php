@@ -13,16 +13,16 @@ use Carbon\Carbon;
 class ContactController extends Controller
 {
     public function submit(Request $request) {
-    	$validator = Validator::make($request->all(), [
-    		'name' => 'required',
-    		'email' => 'required|email',
-    		'subject' => 'required|min:6|max:20',
-    		'message' => 'required|min:6|max:1000'
-		]);
+  //   	$validator = Validator::make($request->all(), [
+  //   		'name' => 'required',
+  //   		'email' => 'required|email',
+  //   		'subject' => 'required|min:6|max:20',
+  //   		'message' => 'required|min:6|max:1000'
+		// ]);
 
-        if ($validator->fails()) {
-            return redirect('/#contact')->withErrors($validator)->withInput();
-        }
+        // if ($validator->fails()) {
+        //     return redirect('/#contact')->withErrors($validator)->withInput();
+        // }
 
         $data = [
             'name' => $request['name'],
@@ -33,13 +33,17 @@ class ContactController extends Controller
 
 		Mail::to('roquevtr@gmail.com')->send(new ContactMail($data));
 
-		if ($validator->fails()) {
-            return redirect('/#contact')->withErrors($validator)->withInput();
-        }
+		// if ($validator->fails()) {
+  //           return redirect('/#contact')->withErrors($validator)->withInput();
+  //       }
 
-        return redirect('/#contact')->with('notification','Thank you for sending an inquiry. If I do not respond in 24 hours, kindly email me again through this form.');
+        // return redirect('/#contact')->with('notification','Thank you for sending an inquiry. If I do not respond in 24 hours, kindly email me again through this form.');
+        return response()->json([
+            'isSuccessful' => true,
+            'message' => 'Thank you for sending an inquiry. If I do not respond in 24 hours, kindly email me again through this form.'
+        ]);
 
-        /* 
+        /*
         if ($validator->fails()) {
             return Response::json([
                 'status' => 'failed',

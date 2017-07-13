@@ -1,5 +1,3 @@
-@if (Session::has('notification'))
-    <div class="alert alert-success">
-        <strong>Success!</strong> {{ Session::get('notification') }}
-    </div>
-@endif
+<div class="alert alert-success" style="display: none" id="notif-message-wrapper">
+    <strong>Success!</strong> <span id="notif-message"></span>
+</div>
