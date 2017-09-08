@@ -13,9 +13,9 @@
         <li class="nav-item ">
             <a class="nav-link waves-effect waves-light page-scroll" href="#about"><i class="fa fa-user"></i><span class="hidden-sm-down"> About</a>
         </li>
-        <li class="nav-item ">
+        <!-- <li class="nav-item ">
             <a class="nav-link waves-effect waves-light page-scroll" href="#projects"><i class="fa fa-star"></i><span class="hidden-sm-down"> Projects</span></a>
-        </li>
+        </li> -->
         <!-- <li class="nav-item ">
             <a class="nav-link waves-effect waves-light page-scroll" href="#testimonials"><i class="fa fa-users"></i><span class="hidden-sm-down"> Testimonials</span></a>
         </li> -->

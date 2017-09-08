@@ -47,14 +47,14 @@ function openModal() {
 
 /* Contact */
 function addressMap() {
-    var balagtas = {lat:14.8185048, lng:120.9006352}
+    var office = {lat:14.5792984, lng:121.0562159}
     var mapOptions = {
-        center: balagtas,
+        center: office,
         zoom: 13
     }
     var map = new google.maps.Map(document.getElementById("map"), mapOptions);
     var marker = new google.maps.Marker({
-      position: balagtas,
+      position: office,
       map: map
     });
 }
@@ -67,7 +67,7 @@ function addressMap() {
 //         'subject':$('#subject').val(),
 //         'message':$('#message').val()
 //     }
-//     $.ajax({ 
+//     $.ajax({
 //         url: '/contact',
 //         async: true,
 //         type: 'POST',

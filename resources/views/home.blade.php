@@ -11,7 +11,7 @@
                             <h1 class="h1-responsive white-text animated zoomIn">Theo Roque</h1>
                         </li>
                         <li>
-                            <a href="#contact" class="btn btn-outline-white btn-md animated pulse infinite page-scroll">Let me help you with your website</a>
+                            <a href="#contact" class="btn btn-outline-white btn-md animated pulse infinite page-scroll">Let me help you with your project</a>
                         </li>
                     </ul>
                 </div>

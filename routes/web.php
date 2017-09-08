@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::post('/contact', 'ContactController@submit');
+// Route::post('/contact', 'ContactController@submit');

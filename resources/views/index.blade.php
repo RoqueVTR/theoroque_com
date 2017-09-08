@@ -30,8 +30,6 @@
 
     @include('about')
 
-    @include('projects')
-
     @include('contact')
 
     @include('common.modal')

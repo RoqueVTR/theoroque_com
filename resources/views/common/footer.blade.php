@@ -8,18 +8,18 @@
                 <!--First column-->
                 <div class="col-md-3 offset-md-1">
                     <h5 class="title">ABOUT</h5>
-                    <p>Dream. Build. Innovate. Inspire.</p>
+                    <p>Dream. Build. Inspire.</p>
                 </div>
                 <!--/.First column-->
 
-                <hr class="hidden-md-up">
+                <!--<hr class="hidden-md-up">-->
 
                 <!--Second column-->
                 <div class="col-md-2 offset-md-1">
-                    <h5 class="title">Projects</h5>
+                    <!--<h5 class="title">Projects</h5>
                     <ul>
                         <li><a onclick="openModal()" target="_blank">SM-Kontacpoint</a></li>
-                    </ul>
+                    </ul>-->
                 </div>
                 <!--/.Second column-->
 
@@ -43,11 +43,11 @@
                     <h5 class="title">Follow me</h5>
                     <ul>
                         <li class="h5">
-                            <a target="_blank" href="//facebook.com/vtheo.roque" class="badge light-blue darken-4"><i class="fa fa-facebook"></i></a>&nbsp;
-                            <a target="_blank" href="//twitter.com/_theomazing" class="badge blue"><i class="fa fa-twitter"></i></a>&nbsp;
+                            <a target="_blank" href="//facebook.com/theoroque95" class="badge light-blue darken-4"><i class="fa fa-facebook"></i></a>&nbsp;
+                            <a target="_blank" href="//twitter.com/theoroque95" class="badge blue"><i class="fa fa-twitter"></i></a>&nbsp;
                             <a target="_blank" href="//www.linkedin.com/in/vincent-theo-roque-39709b9b/" class="badge light-blue darken-3"><i class="fa fa-linkedin"></i></a>&nbsp;
                             <a target="_blank" href="//www.freelancer.com/u/roquevtr.html"><img src="/images/freelancer.ico" style="width:20px;border-radius: 2px;margin-top: 1px;"></a>
-                            
+
                         </li>
                     </ul>
                 </div>
