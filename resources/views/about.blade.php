@@ -67,6 +67,9 @@
                             <p>
                                 I spend most of my time coding and singing. I love music! I really love singing a lot - like really really lot. I think that is what levels my work-life balance - it keeps me motivated, inspired and do strive to progress with my skills as a Software Developer.
                             </p>
+                            <p>
+                                I'm currently unavailable for work, but available for projects. You can take a look at my <a href="https://drive.google.com/file/d/0BxQYqDZmvk4KRHdvVkZXV041MzA/view?usp=sharing" target="_blank">resume</a> anyway.
+                            </p>
                         </div>
                 	</div>
                 </div>
