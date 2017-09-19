@@ -18,6 +18,7 @@
                 <div class="col-md-3">
                     <h5 class="title">E-Dinar Coin</h5>
                     <iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/e-dinar-coin/php" style="border:none; height:100px; width: 250px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+                    <br>
                     <a href="https://wallet.edinarcoin.com/?r=theoroque95" target="_blank">Invest now in DinarCoin!</a>
                 </div>
                 <!--/.Second column-->
