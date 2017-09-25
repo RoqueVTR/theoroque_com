@@ -8,7 +8,7 @@
                 		<br>
                 		<div class="col-sm-12">
                 			<p>
-                				Young as I may be (please don't email me asking for my age), I dream of having my own empire, and my empire's empire as well. I turn exciting ideas into innovative products that are meant to help users and consumers; that will make the world a better and much simpler place. To be able to achieve my dream, I continuously make effort to progress and hone my skills. So far, I am able to acquire the following:
+                				As a young <strong>software engineer</strong>, I dream of having my own empire, and my empire's empire as well. I turn exciting ideas into innovative products that are meant to help users and consumers; that will make the world a better and much simpler place. To be able to achieve my dream, I continuously make effort to progress and hone my skills. So far, I am able to acquire the following:
                 			</p>
                         </div>
                 		<div class="col-sm-12">
@@ -28,8 +28,8 @@
                                             <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"> </i></span></div>
                                         </li>
                                         <li>
-                                            <div>C# Programming Language</div>
-                                            <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"> </i></span></div>
+                                            <div>Server Handling</div>
+                                            <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"> </i></span></div>
                                         </li>
                                         <li>
                                             <div>Cloud Computing (Microsoft Windows Azure)</div>
