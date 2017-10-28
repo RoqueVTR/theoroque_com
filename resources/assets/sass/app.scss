@@ -127,6 +127,33 @@ footer.page-footer {
     font-size: 50px;
 }
 
+section {
+    background: #101621;
+    color: #fff;
+    font-weight: 200;
+
+    .row {
+        .card {
+            background: #ecf2ff;
+        }
+    }
+}
+
+#about {
+    .row {
+        .card-header {
+            border: none;
+            background: transparent;
+            font-weight: 400;
+        }
+        ul li {
+            div {
+                font-weight: 400;
+            }
+        }
+    }
+}
+
 /*******************
  *      Home       *
  *******************/
