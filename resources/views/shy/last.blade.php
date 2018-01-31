@@ -6,7 +6,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-md-6 mb-3">
-                    <img src="/images/shy/1.jpg" class="img-fluid z-depth-3 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.3s" alt="Responsive image">
+                    <img src="/images/shy/img-1.jpg" class="img-fluid z-depth-3 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.3s" alt="Responsive image">
                 </div>
                 <div class="col-md-6 mt-5 mb-3 text-center">
                     <h5 class="white-text wow fadeIn" data-wow-duration="1s" data-wow-delay="0.3s">
@@ -27,14 +27,14 @@
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-12 mb-3">
-                    <img src="/images/shy/4.jpg" class="img-fluid z-depth-3 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.5s" alt="Responsive image">
+                    <img src="/images/shy/img-4.jpg" class="img-fluid z-depth-3 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.5s" alt="Responsive image">
                 </div>
                 <div class="col-lg-4 col-md-6 mb-3">
-                    <img src="/images/shy/3.jpg" class="img-fluid z-depth-3 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.8s" alt="Responsive image">
+                    <img src="/images/shy/img-3.jpg" class="img-fluid z-depth-3 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.8s" alt="Responsive image">
                 </div>
 
                 <div class="col-lg-4 col-md-6 mb-3">
-                    <img src="/images/shy/5.jpg" class="img-fluid z-depth-3 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.6s" alt="Responsive image">
+                    <img src="/images/shy/img-5.jpg" class="img-fluid z-depth-3 wow zoomIn" data-wow-duration="2s" data-wow-delay="0.6s" alt="Responsive image">
                 </div>
             </div>
 
@@ -45,7 +45,7 @@
                     </h1>
                 </div>
                 <div class="col-md-6 mb-3">
-                    <img src="/images/shy/2.jpg" class="img-fluid z-depth-3 wow zoomIn" data-wow-duration="2s" alt="Responsive image">
+                    <img src="/images/shy/img-2.jpg" class="img-fluid z-depth-3 wow zoomIn" data-wow-duration="2s" alt="Responsive image">
                 </div>
             </div>
         </div>
