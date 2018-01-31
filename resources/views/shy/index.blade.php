@@ -1,7 +1,7 @@
 @extends('shy.layout')
 
 @section('content')
-<section id="about" class="wrapper view">
+<section id="shy" class="wrapper view">
     <div class="page-wrapper">
         <div class="container-fluid">
             <div class="col-md-12">

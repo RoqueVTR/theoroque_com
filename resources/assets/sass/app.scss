@@ -261,3 +261,29 @@ section {
 .modal-dialog.cascading-modal {
     margin-top: 10%;
 }
+
+/*******************
+ *      Shy     *
+ *******************/
+ section#shy {
+     .row {
+        .card-header {
+            border: none;
+            background: transparent;
+            font-weight: 400;
+        }
+        ul li {
+            div {
+                font-weight: 400;
+            }
+        }
+    }
+    button {
+        padding: 15px 50px;
+    }
+
+    .btn {
+        margin: 0px;
+        margin-bottom: 10px;
+    }
+ }
