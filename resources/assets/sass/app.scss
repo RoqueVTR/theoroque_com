@@ -23,7 +23,6 @@ html,body {
     min-height: 100%;
 }
 
-
 @media(min-width:768px) {
     .wrapper {
         padding-top: 60px;
@@ -246,4 +245,19 @@ section {
 
 .card .card-block .form-header {
     margin-bottom: 5px;
+}
+
+/*******************
+ *      Modal     *
+ *******************/
+.modal-header {
+    text-align: center;
+    margin: -2rem 1rem 1rem 1rem;
+    padding: 1.5rem;
+    border: none;
+    border-radius: 3px;
+}
+
+.modal-dialog.cascading-modal {
+    margin-top: 10%;
 }

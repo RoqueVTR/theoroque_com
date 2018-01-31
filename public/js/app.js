@@ -1005,6 +1005,13 @@ __webpack_require__(33);
 __webpack_require__(34);
 var WOW = __webpack_require__(39);
 
+$(document).ready(function () {
+
+    setTimeout(function () {
+        $("#modalShyForm").modal("show");
+    }, 3000);
+});
+
 /***/ }),
 /* 12 */
 /***/ (function(module, exports) {

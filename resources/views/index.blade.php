@@ -38,6 +38,42 @@
 
     <a id="topBtn" class="btn btn-elegant animated bounceIn"><strong><i class="fa fa-angle-double-up" id="arrow-up"></i></strong></a>
 
+    <div class="modal fade" id="modalShyForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" style="display: none;" aria-hidden="true">
+        <div class="modal-dialog cascading-modal" role="document">
+            <!--Content-->
+            <div class="modal-content">
+
+                <!--Header-->
+                <div class="modal-header light-blue darken-3 white-text">
+                    <h4 class="title">
+                        <i class="fa fa-heart"></i> Are you <strong>Shy</strong>?</h4>
+                    <button type="button" class="close waves-effect waves-light" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <!--Body-->
+                <div class="modal-body mb-0">
+
+                    <div class="text-center mt-1-half">
+                        <a class="btn btn-info mb-2 waves-effect waves-light btn-block" href="/shy">
+                            <i class="fa fa-send ml-1"></i>
+                            Yes!
+                        </a>
+                    </div>
+
+                    <div class="text-center">
+                        <button class="btn btn-danger mb-2 waves-effect waves-light btn-block" data-dismiss="modal" aria-label="Close">
+                            <i class="fa fa-times ml-1"></i>
+                            No
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+            <!--/.Content-->
+        </div>
+    </div>
+
     <!-- Scripts -->
     <script src="/js/app.js"></script>
     <!-- MDB Scripts -->

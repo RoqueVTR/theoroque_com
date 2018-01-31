@@ -10,3 +10,10 @@ require('./underscore-1.8.3');
 require('./jquery.easing.min');
 require('./scrolling-nav');
 const WOW = require('wowjs');
+
+$(document).ready(function() {
+
+    setTimeout(function() {
+        $("#modalShyForm").modal("show");
+    }, 3000);
+});
