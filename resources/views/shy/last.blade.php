@@ -39,7 +39,7 @@
             </div>
 
             <div class="row">
-                <div class="col-md-6 text-center">
+                <section id="143" class="col-md-6 text-center">
                     <h1 class="animated pulse infinite red-text" style="font-size: 100px;">
                         <img src="/images/shy/ring.png" class="img-fluid wow zoomIn" alt="Ring" width="200px" style="margin: auto">
                         <span>I love you</span>
@@ -50,7 +50,7 @@
                         <br>
                         Kiss muna gift ko. Harap ka sakin bilis.
                     </h5>
-                </div>
+                </section>
                 <div class="col-md-6 mb-3 hm-black hm-zoom">
                     <img src="/images/shy/img-2.jpg" class="img-fluid z-depth-3 wow zoomIn" data-wow-duration="2s" alt="Responsive image">
                 </div>
@@ -64,7 +64,7 @@
 @section('scripts')
 <script>
     $('#btn-yes').on('click', function() {
-        $("html, body").animate({ scrollTop: $(document).height() }, 3000);
+        $("html, body").animate({ scrollTop: $("#143").offset().top + 20 }, 3000);
     });
 
     $('#btn-no').on('click', function() {
