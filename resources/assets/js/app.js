@@ -13,7 +13,7 @@ const WOW = require('wowjs');
 
 $(document).ready(function() {
 
-    setTimeout(function() {
-        $("#modalShyForm").modal("show");
-    }, 3000);
+    // setTimeout(function() {
+    //     $("#modalShyForm").modal("show");
+    // }, 3000);
 });

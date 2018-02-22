@@ -70,7 +70,6 @@
             <!--/.Content-->
         </div>
     </div>
-
     <!-- Scripts -->
     <script src="/js/app.js"></script>
     <!-- MDB Scripts -->

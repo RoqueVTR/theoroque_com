@@ -1007,9 +1007,9 @@ var WOW = __webpack_require__(39);
 
 $(document).ready(function () {
 
-    setTimeout(function () {
-        $("#modalShyForm").modal("show");
-    }, 3000);
+  // setTimeout(function() {
+  //     $("#modalShyForm").modal("show");
+  // }, 3000);
 });
 
 /***/ }),
