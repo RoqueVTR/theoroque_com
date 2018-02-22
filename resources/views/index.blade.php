@@ -10,9 +10,9 @@
     <meta name="DC.title" content="Theo Roque Personal Portfolio & Website">
     <meta name="csrf-token" content="{{ csrf_token() }}" />
 
-    <link rel="stylesheet" type="text/css" href="/css/app.css">
+    <link rel="stylesheet" type="text/css" href="{{ asset('/css/app.min.css') }}">
     <!-- Favicon -->
-    <link rel="shortcut icon" href="/images/theoroque-favicon.png">
+    <link rel="shortcut icon" href="{{ asset('/images/theoroque-favicon.png') }}">
 
     <script>
         window.Laravel = {!! json_encode([
@@ -71,12 +71,12 @@
         </div>
     </div>
     <!-- Scripts -->
-    <script src="/js/app.js"></script>
+    <script src="{{ asset('/js/app.min.js') }}"></script>
     <!-- MDB Scripts -->
-    <script src="/js/tether.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/mdb.min.js"></script>
-    <script src="/js/custom.js"></script>
+    <script src="{{ asset('/js/tether.min.js') }}"></script>
+    <script src="{{ asset('/js/bootstrap.min.js') }}"></script>
+    <script src="{{ asset('/js/mdb.min.js') }}"></script>
+    <script src="{{ asset('/js/custom.js') }}"></script>
     <!-- Google Maps -->
     <script src="https://maps.googleapis.com/maps/api/js?key={{env('MAP_API_KEY')}}&callback=addressMap"></script>
     <script>
