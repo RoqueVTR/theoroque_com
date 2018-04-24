@@ -6,22 +6,13 @@
             <div class="row">
 
                 <!--First column-->
-                <div class="col-md-3 offset-md-1">
+                <div class="col-md-3 offset-md-5">
                     <h5 class="title">Bitcoin</h5>
                     <iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/bitcoin/php" style="border:none; height:100px; width: 250px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
                 </div>
                 <!--/.First column-->
 
                 <!--<hr class="hidden-md-up">-->
-
-                <!--Second column-->
-                <div class="col-md-3">
-                    <h5 class="title">Plexcoin</h5>
-                    <iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/e-dinar-coin/php" style="border:none; height:100px; width: 250px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
-                    <br>
-                    <a href="https://www.plexcoin.tech/?ref=GF2vjpjyiC" target="_blank">Invest now in DinarCoin!</a>
-                </div>
-                <!--/.Second column-->
 
                 <hr class="hidden-md-up">
 
