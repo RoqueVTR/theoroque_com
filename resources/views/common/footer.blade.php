@@ -5,10 +5,15 @@
         <div class="container-fluid">
             <div class="row">
 
+                <div class="col-md-3 offset-md-1">
+                    <a href="https://www.vultr.com/?ref=7405295"><img src="https://www.vultr.com/media/banner_3.png" width="300" height="250"></a>
+                </div>
                 <!--First column-->
-                <div class="col-md-3 offset-md-5">
-                    <h5 class="title">Bitcoin</h5>
+                <div class="col-md-3">
+                    <h5 class="title">Donate Bitcoin</h5>
+                    <p><i class="fa fa-btc"></i>&nbsp; 3F2mjDzXqLiefi1aNCxm3XMWJkNNBn7YWk</p>
                     <iframe id="widget-ticker-preview" src="//www.coingecko.com/en/widget_component/ticker/bitcoin/php" style="border:none; height:100px; width: 250px;" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+                    
                 </div>
                 <!--/.First column-->
 
