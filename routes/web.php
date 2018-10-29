@@ -17,16 +17,16 @@ Route::get('/', function () {
 
 
 
-Route::group(['prefix' => 'shy'], function() {
-    Route::get('/', 'ShyController@index');
-    Route::get('/1', 'ShyController@first');
-    Route::get('/2', 'ShyController@second');
-    Route::get('/3', 'ShyController@third');
-    Route::get('/4', 'ShyController@fourth');
-    Route::get('/5', 'ShyController@fifth');
-    Route::get('/6', 'ShyController@sixth');
-    Route::get('/7', 'ShyController@seventh');
-    Route::get('/last', 'ShyController@last');
-});
+// Route::group(['prefix' => 'shy'], function() {
+//     Route::get('/', 'ShyController@index');
+//     Route::get('/1', 'ShyController@first');
+//     Route::get('/2', 'ShyController@second');
+//     Route::get('/3', 'ShyController@third');
+//     Route::get('/4', 'ShyController@fourth');
+//     Route::get('/5', 'ShyController@fifth');
+//     Route::get('/6', 'ShyController@sixth');
+//     Route::get('/7', 'ShyController@seventh');
+//     Route::get('/last', 'ShyController@last');
+// });
 
 // Route::post('/contact', 'ContactController@submit');

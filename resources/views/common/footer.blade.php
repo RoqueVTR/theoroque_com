@@ -41,7 +41,7 @@
                         <li class="h5">
                             <a target="_blank" href="//facebook.com/theoroque95" class="badge light-blue darken-4"><i class="fa fa-facebook"></i></a>&nbsp;
                             <a target="_blank" href="//twitter.com/theoroque95" class="badge blue"><i class="fa fa-twitter"></i></a>&nbsp;
-                            <a target="_blank" href="//www.linkedin.com/in/vincent-theo-roque-39709b9b/" class="badge light-blue darken-3"><i class="fa fa-linkedin"></i></a>&nbsp;
+                            <a target="_blank" href="//www.linkedin.com/in/theoroque/" class="badge light-blue darken-3"><i class="fa fa-linkedin"></i></a>&nbsp;
                             <a target="_blank" href="//www.freelancer.com/u/roquevtr.html"><img src="/images/freelancer.ico" style="width:20px;border-radius: 2px;margin-top: 1px;"></a>
 
                         </li>
