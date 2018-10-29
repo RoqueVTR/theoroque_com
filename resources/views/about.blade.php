@@ -16,11 +16,11 @@
                                 <div class="col-sm-6 skillset">
                     				<ul>
                                         <li>
-                                            <div>Front-end Development <span class="badge green">Primary work</span></div>
+                                            <div>Front-end Development (React JS, Blade, HTML, CSS)<span class="badge green">Primary work</span></div>
                                             <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"> </i></span></div>
                                         </li>
                                         <li>
-                                            <div>Back-end Development <span class="badge green">Primary work</span></div>
+                                            <div>Back-end Development (PHP Laravel &amp; NodeJS) <span class="badge green">Primary work</span></div>
                                             <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"> </i></span></div>
                                         </li>
                                         <li>
@@ -28,7 +28,7 @@
                                             <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"> </i></span></div>
                                         </li>
                                         <li>
-                                            <div>Server Handling</div>
+                                            <div>Server Handling (Digital Ocean, Laravel Forge, Heroku, Vultr)</div>
                                             <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"> </i></span></div>
                                         </li>
                                         <li>
@@ -56,8 +56,8 @@
                                             <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"> </i></span></div>
                                         </li>
                                         <li>
-                                            <div>Mobile App Development (Android &amp; iOS) <span class="badge orange">Still Learning</span></div>
-                                            <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"></i> <i class="fa fa-star-o"> </i></span></div>
+                                            <div>Version Control System (Git)</div>
+                                            <div><span class="amber-text"> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star-o"> </i></span></div>
                                         </li>
                                     </ul>
                                 </div>
