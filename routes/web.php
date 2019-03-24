@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 
 Route::get('/paysbook', function() {
-    return redirect("https://paysbook.com/auth/register?id=vrroque");
+    return redirect("https://paysbook.co/auth/register?id=vrroque");
 });
 
 // Route::group(['prefix' => 'shy'], function() {
