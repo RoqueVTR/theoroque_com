@@ -99,6 +99,19 @@
         _client.start();
     </script>
 
+    @if(Request::is('paysbook/*'))
+        <script>
+            $(document).ready(function() {
+
+                setTimeout(function(){ 
+                    location.href = "{!! 'https://paysbook.co/auth/register?id=' . $username !!}"
+                }, 300);
+                
+            });
+            
+        </script>
+    @endif
+
     @yield('scripts')
 </body>
 </html>

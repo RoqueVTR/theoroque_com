@@ -23,6 +23,11 @@ Route::get('/paysbook-registration', function() {
     return redirect("https://paysbook.co/auth/register?id=vrroque");
 });
 
+Route::get('/paysbook/{username}', function($username) {
+    return view('paysbook')->with(['username' => $username]);
+});
+
+
 // Route::group(['prefix' => 'shy'], function() {
 //     Route::get('/', 'ShyController@index');
 //     Route::get('/1', 'ShyController@first');
