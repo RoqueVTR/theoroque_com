@@ -23,7 +23,7 @@ Route::get('/paysbook-registration', function() {
     return redirect("https://paysbook.co/auth/register?id=vrroque");
 });
 
-Route::get('/paysbook/{username}', function($username) {
+Route::get('/pb/{username}', function($username) {
     return view('paysbook')->with(['username' => $username]);
 });
 
